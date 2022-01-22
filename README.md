@@ -8,5 +8,7 @@
 2. <a href="https://almakergood.itch.io/">Itch.io</a>
 3. <a href="https://appgallery.huawei.com/app/C105303737">AppGallery</a>
 
+<iframe frameborder="0" src="https://itch.io/embed/1358164" width="552" height="167"><a href="https://almakergood.itch.io/infinite-maze">Infinite Maze by AMG Games</a></iframe>
+
 Our group "VK": <a href="https://vk.com/almakergood">AMG Games</a>
 
