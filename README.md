@@ -1,6 +1,6 @@
 <head>  
 <title>AMG Games</title>
-  <img src="AMGlogoVK.jpg">
+  <img src="AMGlogoVK.jpg" style="border-radius: 30px" width="50%">
   </head>
 <h1>We on:</h1>
 
