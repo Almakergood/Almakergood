@@ -1,6 +1,6 @@
 <head>  
 <title>AMG Games</title>
-  <img src="amg.png">
+  <img src="AMGlogoVK.jpg">
   </head>
 <h1>We on:</h1>
 
