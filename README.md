@@ -7,7 +7,7 @@
   
 <h1>We on:</h1>
 
-<a href="https://play.google.com/store/apps/developer?id=AlmakerGooD"><img src="google pley.jpg" style="border-radius: 30px" width="30%" alt="Google Play"></a>
+<a href="https://play.google.com/store/apps/developer?id=AlmakerGooD"><img src="google pley.jpg" style="border-radius: 30px" width="25%" alt="Google Play"></a>
 <a href="https://appgallery.huawei.com/app/C105303737"><img src="AppGallery.jpg" style="border-radius: 30px" width="20%" alt="AppGallery"></a>
 <a href="https://almakergood.itch.io/"><img src="android.jpg" style="border-radius: 30px" width="30%" alt="Other store"></a>
 
