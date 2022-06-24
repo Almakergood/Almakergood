@@ -2,13 +2,13 @@
 <title>AMG Games</title>
   <img src="AMGlogoVK.jpg" style="border-radius: 30px" width="50%"> 
   </head>
-  <a href="https://vk.com/almakergood">VK group</a>
+  <a href="https://vk.com/almakergood">VK group</a> | 
   <a href="mailto:fback.amg@gmail.com?body=Contact from the site almakergood.github.io&subject=AMG games site:">Our@mail</a>
   
 <h1>We on:</h1>
 
 <a href="https://play.google.com/store/apps/developer?id=AlmakerGooD"><img src="google pley.jpg" style="border-radius: 30px" width="30%" alt="Google Play"></a>
-<a href="https://appgallery.huawei.com/app/C105303737"><img src="AppGallery.jpg" style="border-radius: 30px" width="30%" alt="AppGallery"></a>
+<a href="https://appgallery.huawei.com/app/C105303737"><img src="AppGallery.jpg" style="border-radius: 30px" width="20%" alt="AppGallery"></a>
 <a href="https://almakergood.itch.io/"><img src="android.jpg" style="border-radius: 30px" width="30%" alt="Other store"></a>
 
 <h1>Our games:</h1>
