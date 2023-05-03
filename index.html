@@ -25,9 +25,9 @@
 </script>
  
  <header>
- <img src="AMGlogoVK.jpg" style="border-radius: 30px" align="middle" width="50%" alt="Заголовок" class="logo">
+ <img src="AMGlogoVK.jpg" style="border-radius: 30px" align="middle" width="40%" alt="Заголовок" class="logo">
 	 
- <nav> 
+ <nav class="hr"> 
 	 <ul> 
 		 <li><a href="#">Главная</a></li> 
 		 <li><a href="#">Игры</a></li>
@@ -36,6 +36,21 @@
 	 </ul> 
 </nav> 	 
 	 </header>
+	 
+	 <style>
+   ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+   ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    border-radius: 12px;
+    background-color: rgb(100,0,0);
+    padding: 3px; /* Поля вокруг текста */
+   }
+  </style>
  
 <section class="about">
 	<h1>Студия разработки игр</h1>
